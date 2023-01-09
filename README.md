@@ -1,4 +1,4 @@
-Representação de uma "Pokedex" Web, utilizando NextJS e uma própria API com banco de dados Sqlite para requisitar informações dos Pokemons.
+Representação de uma "Pokedex" Web, utilizando NextJS e uma própria API com banco de dados Sqlite para requisitar informações dos Pokemons. Ainda conta com sistema de favoritar Pokemons que fica gravado no DB e é possível consultar todos os pokemons favoritados em uma página específica.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

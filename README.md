@@ -1,3 +1,5 @@
+Representação de uma "Pokedex" Web, utilizando NextJS e uma própria API com banco de dados Sqlite para requisitar informações dos Pokemons.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
